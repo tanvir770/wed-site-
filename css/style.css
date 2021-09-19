@@ -1,0 +1,508 @@
+*{
+	margin: 0px;
+	padding: 0px 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+
+header{
+
+	background: #87509C;
+	width: 100%;
+	float: left;
+	padding: 10px 0;
+}
+
+.logo{
+
+	width: 40%;
+	float: left;
+}
+
+.menu{
+
+	width: 60%;
+	float: left;
+}
+
+nav ul{
+
+	list-style: none;
+}
+
+nav ul li{
+	
+	display: inline-block;
+	margin: 11px 20px;
+}
+
+nav ul li a {
+	
+	color: white;		
+	text-decoration: none;		
+	font-size: 24px;
+}
+
+.prgp{
+
+	width: 70%;
+	margin: 0 auto;
+	padding: 100px 0px 200px;
+}
+
+.prgp h2{
+
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 10px 11px;
+	line-height: 2;
+}
+
+.btn{
+	
+	background: orange;	
+	color: white;		
+	padding: 17px 34px;		
+	margin: 53px auto 0;		
+	display: block;		
+	text-transform: uppercase;		
+	border: none;		
+	font-size: 18px;		
+	box-shadow: 0px 5px 2px orange;		
+	font-weight: 700;
+}
+
+.section-one{
+
+	width: 100%;
+	float: left;
+	background: #17C2A4;
+	padding: 24px 0;
+}
+
+.text{
+
+	color: black;
+	text-align: center;
+}
+
+.text h3{
+	
+	text-transform: uppercase;		
+	margin: 9px 0;		
+	font-size: 23px;		
+	padding: 6px 5px;
+}
+
+.text span{
+	
+}
+
+.text p{
+	
+	text-align: center;	
+	margin: 6px 0px 51px;	
+	padding: 18px 254px;
+}
+
+.sctn-img{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.sctn-img h4{
+
+	color: white;
+	font-size: 20px;
+	margin: 17px 2px;
+	text-align: center;
+}
+
+.sctn-img p{
+
+	color: white;
+	text-align: center;
+	padding: 0px 5px;
+	margin: 0px 25px;
+}
+
+.team{
+
+	width: 100%;
+	float: left;
+	background: gainsboro;
+    padding: 25px 0
+
+}
+
+.teamtext{
+
+	width: 50%;
+	text-align: center;
+	margin: 26px auto;
+}
+
+.teamtext h3{
+	text-transform: uppercase;
+	font-size: 26px;}
+
+.teamtext span {
+
+	border-bottom: 3px solid black;
+	width: 95px;
+	display: block;
+	margin: 13px auto;
+}
+
+.teamtext p{
+
+	margin-bottom: 9px;
+	display: inline-block;
+}
+
+
+
+.teammember{
+
+	width: 25%;
+	float: left;
+	text-align: center;
+	margin: 0 0px;
+}
+
+.teammember img{
+
+	width: 200px;
+	padding-bottom: 22px;
+}
+
+.teammember h4{
+
+	text-transform: uppercase;
+	margin: 1px 0;
+	font-size: 20px;
+}
+
+.teammember h5{
+
+	color: purple;
+	display: inline-block;
+	margin-bottom: 21px;
+}
+.teammember p{
+
+	padding: 0 28px;
+}
+
+.social-icons{
+    color: white;
+    margin: 1px auto;
+    display: inline-block;
+}
+
+.social-icons ul{
+
+	list-style: none;
+}
+
+.social-icons ul li{
+
+	float: left;
+
+	margin: 9px 12px;
+}
+
+.fa.fa-facebook {
+    background: grey;
+    padding: 6px 11px;
+    border-radius: 20px;
+}
+
+.fa.fa-twitter {
+    background: grey;
+    padding: 6px 9px;
+    border-radius: 30px;
+}
+
+.fa.fa-linkedin {
+    background: grey;
+    padding: 6px 9px;
+    border-radius: 20px;
+}
+
+.fa.fa-envelope-o {
+    background: grey;
+    padding: 6px 9px;
+    border-radius: 20px;
+}
+
+.portfolio{
+	width: 100%;
+	float: left;
+	background: #FFDD99;
+	padding: 34px 0;
+}
+
+.text2{
+
+	width: 50%;
+	text-align: center;
+	margin: 15px auto;
+}
+
+.text2 h4{
+	
+	text-transform: capitalize;
+
+	font-size: 28px;	
+	margin-bottom: -1px;
+}
+
+.text2 span{
+	
+	border-bottom: 2px  solid black;	
+	margin: 3px auto;	
+	display: inline-block;	
+	width: 89px;
+}
+
+.text2 p{
+	
+	text-align: center;	
+	margin-bottom: 12px;
+}
+
+.portfolio-btn{
+    background: #50505069;
+    color: white;
+    border: none;
+    padding: 7px 7px;
+    margin: 12px 9px;
+
+	
+}
+
+.laptop{
+
+	width: 50%;
+
+	text-align: center;
+
+	float: left;
+}
+
+.laptop img{
+
+	width: 450px;
+}
+
+.laptop p{
+
+	text-align: center;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	margin: 13px 0;
+}
+
+.laptop1{
+	width: 50%;
+
+	text-align: center;
+
+	float: left;
+}
+
+.laptop1 img{
+	width: 450px;
+}
+
+.laptop1 p{
+	text-align: center;
+
+	font-weight: bold;
+
+	text-transform: uppercase;
+
+	margin: 13px 0;
+}
+
+.laptop-btn{
+
+	background: #26CABB;
+    color: white;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding: 16px 33px;
+    box-shadow: 0px 5px 0px #1d9e92;
+}
+
+
+.aboutus{
+	width: 100%;
+	float: left;
+	background: #D74680;
+
+}
+
+.abouttext{
+	text-align: center;
+    color: white;
+
+}
+
+.abouttext h2{
+	 margin-top: 28px;
+    text-transform: uppercase;
+}
+	
+
+
+
+.abouttext p{
+
+   padding-bottom: 27px;
+}
+
+.abouttext span{
+	border-bottom: 2px solid black;	
+	margin: 3px auto;	
+	display: inline-block;	
+	width: 89px;
+}
+
+.aboutperson{
+	width: 50%;
+	float: left;
+	color: white;
+}
+
+.aboutperson img {
+ 	width: 150px;
+ 	text-align: center;
+}
+
+.aboutperson p {
+	margin-bottom: 13px;
+}
+
+.aboutperson h3{
+
+	text-transform: uppercase;
+}
+
+.aboutperson h4{
+
+	color: yellow;
+
+	font-size: 12px;
+
+	padding-bottom: 33px;
+}
+
+
+.getintouch{
+	width: 100%;
+	float: left;
+	background: #3C5499;
+	text-align: center;
+	padding: 23px 0;
+}
+
+.form{
+
+	color: white;
+}
+
+.form h2{
+
+	text-transform: uppercase;
+}
+
+.form span{
+	border-bottom: 2px solid black;	
+	margin: 3px auto;	
+	display: inline-block;	
+	width: 89px;
+	
+}
+
+.form p{
+
+	margin-bottom: 27px;
+}
+
+.form-two{
+
+	width: 50%;
+
+	margin: 0 auto;
+}
+
+.formcontrol{
+
+	color: white;
+
+	background: #00000052;
+
+	border: none;
+
+	padding: 2px 3px 3px 8px;
+}
+
+.textcontrol{
+	color: white;background: #00000052;border: none;margin: 7px 0;padding: 0 199px 103px 11px;
+}
+
+.send-btn{
+
+	background: #30D0C1;
+    color: white;
+    border: none;
+    padding: 13px 35px;
+    margin: 13px 0;
+    box-shadow: 0px 5px 0px #249e93;
+}
+
+
+
+.container-two{
+	width: 100%;
+	float: left;
+	background: #344B8E;
+}
+
+.container-control l{
+    text-align: center;
+    display: block;
+}
+
+.container-control ul {
+
+	list-style: none;
+}
+
+.container-control ul li{
+	margin: 32px 38px;display: inline-block;
+}
+
+.container-control ul li a{
+
+	color: white;
+
+	text-decoration: none;
+
+	text-transform: uppercase;
+
+	font-size: 18px;
+}
+
+
